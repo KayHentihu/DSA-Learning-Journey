@@ -36,4 +36,45 @@ I will continue updating this repository as I learn new concepts and implement t
 
 ---
 
+## 📂 Featured Projects
+
+### 👨‍🎓 Project 01 — Student Management System
+
+A simple C++ project for practicing student data management and fundamental programming concepts.
+
+📌 **Concepts:**
+- C++ Programming
+- Data Management
+- Problem Solving
+
+📁 [View Project](./Project-01-Student-Management-System)
+
+---
+
+### 🏥 Project 02 — Hospital Queue System
+
+A hospital queue simulation project that applies the Queue data structure and FIFO principle.
+
+📌 **Concepts:**
+- Queue
+- FIFO (First In, First Out)
+- Data Management
+
+📁 [View Project](./Project-02-Hospital-Queue-System)
+
+---
+
+### 🌐 Project 03 — Browser History System
+
+A browser history simulation project that applies the Stack data structure and LIFO principle.
+
+📌 **Concepts:**
+- Stack
+- LIFO (Last In, First Out)
+- Problem Solving
+
+📁 [View Project](./Project-03-Browser-History-System)
+
+---
+
 ⭐ Learn → Practice → Build → Improve
