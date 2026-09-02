@@ -1,2 +1,21 @@
 # DSA-Learning-Journey
-My journey learning Data Structures and Algorithms using C++
+
+Repository ini berisi perjalanan saya mempelajari 
+Struktur Data dan Algoritma menggunakan C++.
+
+## Materi 
+
+-[x] Array
+-[x] Searching 
+-[x] Sorting
+-[ ] Stack
+-[ ] Queue
+-[ ] Linked List
+-[ ] Tree
+-[ ] Graph
+
+## Project
+
+- Student Management System
+- Hospital Queue System
+- Sorting Visual Comparison
