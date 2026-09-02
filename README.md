@@ -1,21 +1,39 @@
-# DSA-Learning-Journey
+# 🧠 DSA Learning Journey
 
-Repository ini berisi perjalanan saya mempelajari 
-Struktur Data dan Algoritma menggunakan C++.
+Welcome to my Data Structures & Algorithms learning journey! 🚀
 
-## Materi 
+This repository documents my journey learning fundamental Data Structures and Algorithms using C++.
 
--[x] Array
--[x] Searching 
--[x] Sorting
--[ ] Stack
--[ ] Queue
--[ ] Linked List
--[ ] Tree
--[ ] Graph
+## 📚 Topics I'm Learning
 
-## Project
+### 🔹 Data Structures
+- 📦 Arrays
+- 🔗 Linked Lists
+- 📚 Stacks
+- 🚶 Queues
+- 🌳 Trees
+- 🕸️ Graphs
+- 🗂️ Hash Tables
 
-- Student Management System
-- Hospital Queue System
-- Sorting Visual Comparison
+### 🔹 Algorithms
+- 🔍 Searching
+- 🔄 Sorting
+- 🔁 Recursion
+- 🧩 Problem Solving
+- 🛤️ Graph Algorithms
+
+## 💻 Programming Language
+
+- C++
+
+## 🎯 Purpose
+
+The purpose of this repository is to document my learning journey in Data Structures and Algorithms and improve my problem-solving and programming skills.
+
+## 🚀 Learning Progress
+
+I will continue updating this repository as I learn new concepts and implement them through practice and programming exercises.
+
+---
+
+⭐ Learn → Practice → Build → Improve
